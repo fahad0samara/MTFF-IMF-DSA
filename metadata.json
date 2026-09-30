@@ -1,0 +1,6 @@
+{
+  "name": "Medium-Term Fiscal Planning & Debt Dynamics Dashboard",
+  "description": "Government medium-term fiscal framework (MTFF) dashboard simulating debt-to-GDP ratios, projected tax revenue trends, macroeconomic stress scenarios, and exportable stakeholder PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
